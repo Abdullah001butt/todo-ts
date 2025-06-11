@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { FaCheck, FaTrash, FaUndo } from "react-icons/fa";
 
 type TodoProps = {
